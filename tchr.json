@@ -7,7 +7,8 @@
             "uris": [
                 "magnet:?xt=urn:btih:bac9f2b91a4b287895009c247af3e3f930ea934e&dn=RV+There+Yet&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
             ],
-            "uploadDate": "2025-12-10T17:15:15.927Z"
+            "uploadDate": "2025-12-10T17:15:15.927Z",
+            "nsfw": false
         },
         {
             "title": "Hearts of Iron IV",
@@ -15,7 +16,8 @@
             "uris": [
                 "https://www.mediafire.com/file/vb37vp83eayljc7/Hearts.of.Iron.IV.v1.16.10-P2P.rar/file"
             ],
-            "uploadDate": "2025-11-02T00:00:00.000Z"
+            "uploadDate": "2025-11-02T00:00:00.000Z",
+            "nsfw": false
         },
         {
             "title": "PEAK v1.46.a",
@@ -24,7 +26,8 @@
                 "https://gofile.io/d/KCV54i",
                 "https://www.mediafire.com/file/jp2iugdl37ezfb7"
             ],
-            "uploadDate": "2025-11-25T18:21:00.000Z"
+            "uploadDate": "2025-11-25T18:21:00.000Z",
+            "nsfw": false
         },
         {
             "title": "HITMAN 2",
@@ -32,15 +35,36 @@
             "uris": [
                 "https://gofile.io/d/8NfR0r"
             ],
-            "uploadDate": "2025-12-08T17:23:55.447Z"
+            "uploadDate": "2025-12-08T17:23:55.447Z",
+            "nsfw": false
         },
+        
         {
             "title": "Party Animals",
             "fileSize": "3.96 GB",
             "uris": [
                 "https://www.mediafire.com/file/v9d6hv7ha12wxrf/Party.Animals.v1.0.3.0-0xdeadc0de.7z/file"
             ],
-            "uploadDate": "2025-12-23T19:21:42.613Z"
+            "uploadDate": "2025-12-23T19:21:42.613Z",
+            "nsfw": false
+        },
+        {
+            "title": "Aristocunts",
+            "fileSize": "688.74 MB",
+            "uris": [
+                "https://www.mediafire.com/file/25f2pngswjo5fa0"
+            ],
+            "uploadDate": "2025-12-24T10:34:15.992Z",
+            "nsfw": true
+        },
+        {
+            "title": "Aristocunts II",
+            "fileSize": "758.93 MB",
+            "uris": [
+                "https://www.mediafire.com/file/vsm1cbb85uldp2n"
+            ],
+            "uploadDate": "2025-12-24T10:34:15.992Z",
+            "nsfw": true
         }
     ]
 }
