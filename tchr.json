@@ -111,26 +111,6 @@
             ],
             "uploadDate": "2026-01-03T14:46:13.961Z",
             "nsfw": false
-        },
-        {
-            "title": "Hytale",
-            "fileSize": "3.7 GB",
-            "uris": [
-                "https://gofile.io/d/3wyMIR",
-                "https://vikingfile.com/f/7Kg4PZytw1",
-                "https://megadb.net/w3fva5w1byx4"
-            ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
-            "nsfw": false
-        },
-        {
-            "title": "Hytale con online",
-            "fileSize": "1.2 GB",
-            "uris": [
-                "https://www.mediafire.com/file/q4wcqi7whyn0vsw/Hytale+Launcher.zip/file"
-            ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
-            "nsfw": false
         }
     ]
 }
