@@ -120,7 +120,7 @@
                 "https://megadb.net/w3fva5w1byx4"
             ],
             "uploadDate": "2026-01-16T13:48:52.403Z",
-            "nsfw": false
+            "nsfw": false,
         },
         {
             "title": "Hytale con online",
@@ -129,7 +129,8 @@
                 "https://www.mediafire.com/file/q4wcqi7whyn0vsw/Hytale+Launcher.zip/file"
             ],
             "uploadDate": "2026-01-16T13:48:52.403Z",
-            "nsfw": false
+            "nsfw": false,
+            "myCrack": true,
         },
         {
             "title": "Big Hops",
@@ -149,6 +150,19 @@
             ],
             "uploadDate": "2026-01-16T13:48:52.403Z",
             "nsfw": false
+        },
+        {
+            "title": "FIFA 23 optimizado",
+            "fileSize": "50.6 GB",
+            "uris": [
+                "https://gofile.io/d/t94dji"
+            ],
+            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "nsfw": false,
+            "anotherAlert": [
+                {type: heart, text: "Esta version optimizada del fifa "},
+                {type: error, text: "En caso de errores\n- Accede a la carpeta gamedata.\n- Elimina los archivos dinput8.dll y optiprojects.asi"}
+            ]
         }
     ]
 }
