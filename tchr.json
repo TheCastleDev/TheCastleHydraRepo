@@ -120,7 +120,7 @@
                 "https://megadb.net/w3fva5w1byx4"
             ],
             "uploadDate": "2026-01-16T13:48:52.403Z",
-            "nsfw": false,
+            "nsfw": false
         },
         {
             "title": "Hytale con online",
@@ -130,7 +130,7 @@
             ],
             "uploadDate": "2026-01-16T13:48:52.403Z",
             "nsfw": false,
-            "myCrack": true,
+            "myCrack": true
         },
         {
             "title": "Big Hops",
@@ -160,8 +160,14 @@
             "uploadDate": "2026-01-16T13:48:52.403Z",
             "nsfw": false,
             "anotherAlert": [
-                {type: heart, text: "Esta version optimizada del fifa "},
-                {type: error, text: "En caso de errores\n- Accede a la carpeta gamedata.\n- Elimina los archivos dinput8.dll y optiprojects.asi"}
+                {
+                    "type": "heart",
+                    "text": "Esta version optimizada del fifa "
+                },
+                {
+                    "type": "error",
+                    "text": "En caso de errores\n- Accede a la carpeta gamedata.\n- Elimina los archivos dinput8.dll y optiprojects.asi"
+                }
             ]
         }
     ]
