@@ -119,7 +119,7 @@
                 "https://vikingfile.com/f/7Kg4PZytw1",
                 "https://megadb.net/w3fva5w1byx4"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false
         },
         {
@@ -128,7 +128,7 @@
             "uris": [
                 "https://www.mediafire.com/file/ttxcn7hxingq7dz/Hytale.zip/file"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false
         },
         {
@@ -138,7 +138,7 @@
                 "https://vik1ngfile.site/f/lNvdXWkikz",
                 "https://megadb.net/mnvpktm58gwb"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false
         },
         {
@@ -149,7 +149,7 @@
                 "https://www.mediafire.com/file/9kzqsu2nj9pyg7w",
                 "https://gofile.io/d/ZBrRzE"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false
         },
         {
@@ -158,7 +158,7 @@
             "uris": [
                 "https://gofile.io/d/t94dji"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false,
             "anotherAlert": [
                 {
@@ -177,7 +177,7 @@
             "uris": [
                 "https://www.mediafire.com/file/09uk6wdozpfzv3n"
             ],
-            "uploadDate": "2026-01-16T13:48:52.403Z",
+            "uploadDate": "2026-01-19T16:42:00.788Z",
             "nsfw": false,
             "anotherAlert": [
                 {
@@ -185,6 +185,16 @@
                     "text": "Optijuegos que ha creado esta version optimizada de Hytale3 y podras encontrar su version original en https://optijuegos.net/ "
                 }
             ]
+        },
+        {
+            "title": "CloverPit",
+            "fileSize": "113.1 MB",
+            "uris": [
+                "https://www.mediafire.com/file/1sslnyh6cggl96v",
+                "https://gofile.io/d/pxuXth"
+            ],
+            "uploadDate": "2026-01-19T16:42:00.788Z",
+            "nsfw": false
         }
     ]
 }
