@@ -15,5 +15,12 @@
             "uris": ["https://mobdisc.com/fdl/8800fd6a-3d5e-4359-b83c-0304a69401ba/Baba-Is-You-v608-0-patched.apk"],
             "uploadDate": "2025-12-24T10:53:00.838Z" ,
             "nfsw": false
-        }]
+        },{
+            "title": "Balatro (android)",
+            "fileSize": "63.0 MB",
+            "uris": ["https://dl.apkvision.org/balatro/Balatro-v0.7-full-apkvision.apk"],
+            "uploadDate": "2026-01-19T17:32:17.365Z" ,
+            "nfsw": false
+        }
+    ]
 }
