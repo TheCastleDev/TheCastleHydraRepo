@@ -214,6 +214,17 @@
             ],
             "uploadDate": "2026-01-24T12:37:01.970Z",
             "nsfw": false
+        },
+        {
+            "title": "Project Zomboid",
+            "fileSize": "4.4 GB",
+            "uris": [
+                "https://vikingfile.com/f/6GKs01evem",
+                "https://buzzheavier.com/vix5bth246ay",
+                "https://megadb.net/t97mx8w06wo6"
+            ],
+            "uploadDate": "2026-01-24T12:37:05.970Z",
+            "nsfw": false
         }
     ]
 }
