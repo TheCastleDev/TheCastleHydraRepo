@@ -119,7 +119,35 @@
                 "https://buzzheavier.com/ndyefnmnvn77"
             ],
             "uploadDate": "2026-01-19T16:42:00.788Z",
-            "nsfw": false
+            "nsfw": false,
+            "horizontalThumbnail": "https://cdn2.steamgriddb.com/hero_thumb/3d84ab65edc34e0bcebab4081714c496.jpg",
+            "shortDescription": {
+                "es": "Partir\nen\nuna\naventura\nconstruida\ntanto\npara\nla\ncreación\ncomo\npara\nel\njuego.\nHytale\ncombina\nla\nlibertad\nde\nun\nsandbox\ncon\nel\nimpulso\nde\nun\nRPG:\nexplorar\nun\nmundo\ngenerado\npor\nprocedimientos\nlleno\nde\nmazmorras,\nsecretos\ny\nuna\nvariedad\nde\ncriaturas,\ny\nluego\ndarle\nforma\nbloque\npor\nbloque.\nNuestra\nversión\nEarly\nAccess\nse\ncentra\nen\nsistemas\nde\nnúcleo\npulido:\nexploración,\ncombate\nreceptivo\ny\nconstrucción\nrobusta,\njunto\ncon\nlas\nherramientas\nde\ncreación\npara\ncrear\nsu\npropio\ncontenido,\ncrear\nminijuegos\ny\nejecutar\nservidores\ncomunitarios.\n¡Salta,\ndeja\ntu\nhuella\ny\nayúdanos\na\nhacer\ncrecer\neste\nmundo\njuntos!.",
+                "en": "Embark\non\nan\nadventure\nbuilt\nfor\nboth\ncreativity\nand\nplay.\nHytale\ncombines\nsandbox\nfreedom\nwith\nRPG\ndepth:\nexplore\na\nprocedurally\ngenerated\nworld\nteeming\nwith\ndungeons,\nsecrets,\nand\ndiverse\ncreatures,\nthen\nshape\nit\nblock\nby\nblock.\nOur\nEarly\nAccess\nrelease\nfocuses\non\npolished\ncore\nsystems:\nexploration,\nresponsive\ncombat,\nand\nrobust\nbuilding,\nalongside\ncreative\ntools\nto\nmake\nyour\nown\ncontent,\ncraft\nminigames,\nand\nrun\ncommunity\nservers.\nJump\nin,\nmake\nyour\nmark,\nand\nhelp\nus\ngrow\nthis\nworld\ntogether!."
+            },
+            "media": [
+            {
+              "type": "video",
+              "url": "https://rr4---sn-h5qzen7l.googlevideo.com/videoplayback?expire=1770164120&ei=ODuCaZiUB9GP2_gPg7jd2A8&ip=142.111.161.215&id=o-AIe8bZSjW_fP-BB-d1kAPjPcnCLPiKyAZ7puzvGIEdi3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AW-iu_pVcbJzZlBbtDGEOyibK5K05HbZdD9UHcLGGR1rnBBKYli7u5sCrWq1FbqkDyLKJB_xNZ6VkvxZ&spc=q5xjPKrzoPrGSHoyenTADCL4ubxAqnmsXAtS0hEk2vEiOPRr_yeQeo_RZ5bUvqolCls&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=142.222&lmt=1750711872456718&fexp=51552689,51565116,51565682,51580968&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJEij0EwRQIhANectKIpcKABlnouPUdV87s7qdNhvYzPPVedrDrBvlSmAiAv3NwEhAtiGUugplZWV51jc7tjgwKyotYXKZF0bQdImQ%3D%3D&rm=sn-o09sl7l&rrc=104,191&req_id=ddd34538edb6a3ee&cps=314&ipbypass=yes&redirect_counter=2&cm2rm=sn-8vq54voxn25po-h5qy76&cms_redirect=yes&cmsv=e&met=1770142527,&mh=Ju&mip=5.40.146.71&mm=29&mn=sn-h5qzen7l&ms=rdu&mt=1770142175&mv=m&mvi=4&pl=24&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIhAIFyl83r-77zLXRuTxDkU3MkJN5wFaP553BXqYH6k9nzAiAMO6ltfH7NacnhYcr9gsCMKHVoxUA_G-RiyF8ATi_tpw%3D%3D",
+              "thumbnail": "https://cdn.hytale.com/variants/blog_thumb_e9ac7f05f9c5f040aed38eb226a1872d_blog_cover_option2.png",
+              "name": "Trailer Oficial"
+            },
+            {
+              "type": "image",
+              "url": "https://cdn.hytale.com/variants/blog_thumb_4666219169b117610c44205c41707e4f_e208b945a93c8dc6a00a8257309badb9_undergroundjungledinorun_01_raw.png",
+              "thumbnail": "https://cdn.hytale.com/variants/blog_thumb_4666219169b117610c44205c41707e4f_e208b945a93c8dc6a00a8257309badb9_undergroundjungledinorun_01_raw.png"
+            },
+            {
+              "type": "image",
+              "url": "https://cdn.hytale.com/variants/blog_thumb_141140f01e6d5efde1b239619412e2d0_image8.png",
+              "thumbnail": "https://cdn.hytale.com/variants/blog_thumb_141140f01e6d5efde1b239619412e2d0_image8.png"
+            },
+            {
+              "type": "image",
+              "url": "https://cdn.hytale.com/variants/blog_thumb_dd054ee29f8e29ebfa37dd86098957db_96be32b5425708122899eb9421866216_feran_cover_art.png",
+              "thumbnail": "https://cdn.hytale.com/variants/blog_thumb_dd054ee29f8e29ebfa37dd86098957db_96be32b5425708122899eb9421866216_feran_cover_art.png"
+            }
+          ]
         },
         {
             "title": "Big Hops",
