@@ -15,6 +15,14 @@
                 "es": "El prota se despierta del sueño de gmen y triste por la muerte de la fulana esa de la que no me se el nombre decide hablar con g-men  y el propósito es escapar sin morir de muerte.",
                 "en": "The protagonist wakes up from G-Man’s dream and, sad about the death of that woman whose name I don’t remember, decides to talk to G-Man, and the goal is to escape without dying."
             },
+            "media": [
+                {
+                  "type": "video",
+                  "url": "https://github.com/TheCastleDev/thecastledevresources/raw/refs/heads/main/Full%20life.mp4",
+                  "thumbnail": "https://i.postimg.cc/MTMD3qfQ/imagen.png",
+                  "name": "Full Life"
+                },
+            ]
         },
     ]
 }
