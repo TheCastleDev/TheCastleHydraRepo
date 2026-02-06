@@ -255,6 +255,15 @@
             ],
             "uploadDate": "2026-02-06T18:31:41.989Z",
             "nsfw": false
+        },
+        {
+            "title": "Terraria",
+            "fileSize": "1.7 GB",
+            "uris": [
+                "https://megadb.net/hzlcjvb0ck3y"
+            ],
+            "uploadDate": "2026-02-06T18:31:41.989Z",
+            "nsfw": false
         }
     ]
 }
