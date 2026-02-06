@@ -246,6 +246,15 @@
             ],
             "uploadDate": "2026-01-28T15:30:35.967Z",
             "nsfw": false
+        },
+        {
+            "title": "Gamblers Table",
+            "fileSize": "101 MB",
+            "uris": [
+                "https://megadb.net/vfr0k0q2u1a1"
+            ],
+            "uploadDate": "2026-02-06T18:31:41.989Z",
+            "nsfw": false
         }
     ]
 }
