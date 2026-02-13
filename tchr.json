@@ -113,6 +113,7 @@
     },
     {
       "title": "Hytale",
+      "selfCrack": true,
       "fileSize": "4.60 GB",
       "uris": [
         "https://buzzheavier.com/lsy56psp37oj"
@@ -332,6 +333,17 @@
         "https://www.mediafire.com/file/9ouj4g4zjkju9aq"
       ],
       "uploadDate": "2026-02-13T20:39:14.752Z",
+      "nsfw": false
+    },
+    {
+      "title": "MewGenics",
+      "fileSize": "4.37 MB",
+      "uris": [
+        "https://www.mediafire.com/file/jcojqo0y1asruaz/",
+        "https://gofile.io/d/YmuMXQ",
+        "https://buzzheavier.com/7ayqsl6rqf1b"
+      ],
+      "uploadDate": "2026-02-13T21:12:45.470Z",
       "nsfw": false
     }
   ]
