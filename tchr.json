@@ -395,6 +395,22 @@
       ],
       "uploadDate": "2026-02-20T06:18:28.096Z",
       "nsfw": false
+    },
+    {
+      "title": "Schedule I"
+      "fileSize": "2.6 GB",
+      "uris": [
+        "https://www.rootz.so/d/T7xtg",
+        "https://gofile.io/d/aUULri"
+      ],
+      "uploadDate": "2026-03-03T18:54:58.404Z",
+      "nsfw": false,
+      "anotherAlert": [
+        {
+          "type": "error",
+          "text": "Toda alerta de amenaza proveniente del archivo patcher.dll es un falso positivo"
+        }
+      ]
     }
   ]
 }
