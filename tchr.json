@@ -338,6 +338,7 @@
     {
       "title": "MewGenics",
       "fileSize": "4.37 MB",
+      "needAccount": true,
       "uris": [
         "https://www.mediafire.com/file/jcojqo0y1asruaz/",
         "https://gofile.io/d/YmuMXQ",
@@ -349,6 +350,7 @@
     {
       "title": "Poppy Playtime 1-2 y Launcher",
       "fileSize": "13.5 GB",
+      "needAccount": true,
       "uris": [
         "https://buzzheavier.com/f8ep8czh93b5"
       ],
@@ -359,6 +361,7 @@
     {
       "title": "Poppy Playtime - Chapter 4",
       "fileSize": "6.68 GB",
+      "needAccount": true,
       "uris": [
         "https://buzzheavier.com/gjqstqx297ym"
       ],
@@ -369,6 +372,7 @@
     {
       "title": "Poppy Playtime - Chapter 5",
       "fileSize": "10.6 GB",
+      "needAccount": true,
       "selfCrack": true,
       "uris": [
         "https://buzzheavier.com/ay831rn4e1bd"
@@ -406,7 +410,7 @@
       ],
       "uploadDate": "2026-03-03T18:54:58.404Z",
       "nsfw": false,
-      "codeNeeded": ["CarpeJuegos"],
+      "needCode": ["CarpeJuegos"],
       "anotherAlert": [
         {
           "type": "error",
