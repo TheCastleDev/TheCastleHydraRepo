@@ -1,0 +1,29 @@
+{
+    "chapters": {
+        "1": {
+            "name": "Capitulo 1",
+            "size": 10000000,
+            "url": "https://example.com/chapter1.zip",
+        },
+        "2": {
+            "name": "Capitulo 2",
+            "size": 10000000,
+            "url": "https://example.com/chapter2.zip",
+        },
+        "3": {
+            "name": "Capitulo 3",
+            "size": 10000000,
+            "url": "https://example.com/chapter3.zip",
+        },
+        "4": {
+            "name": "Capitulo 4",
+            "size": 10000000,
+            "url": "https://example.com/chapter4.zip",
+        },
+        "5": {
+            "name": "Capitulo 5",
+            "size": 10000000,
+            "url": "https://example.com/chapter5.zip",
+        },
+    }
+}
