@@ -418,6 +418,16 @@
           "text": "Toda alerta de amenaza proveniente del archivo patcher.dll es un falso positivo"
         }
       ]
+    },
+    {
+      "title": "Ultrakill",
+      "fileSize": "3.0 GB",
+      "uris": [
+        "https://buzzheavier.com/ffgp12s6g6ma",
+        "https://gofile.io/d/sy1okv"
+      ],
+      "uploadDate": "2026-03-03T18:54:58.404Z",
+      "nsfw": false
     }
   ]
 }
