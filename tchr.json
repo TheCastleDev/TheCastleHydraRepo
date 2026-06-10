@@ -496,6 +496,15 @@
       ],
       "uploadDate": "2026-06-04T13:46:14.274Z",
       "nsfw": false
+    },
+    {      
+      "title": "Cuphead",
+      "fileSize": 4.9 GB",
+      "uris": [
+        "https://www.mediafire.com/file/kmxss3fk5uex5hq/Cuphead.v1.3.9.zip/file"
+      ],
+      "uploadDate": "2026-06-10T06:54:24.753Z",
+      "nsfw": false
     }
   ]
 }
