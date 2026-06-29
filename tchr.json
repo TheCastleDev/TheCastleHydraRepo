@@ -508,13 +508,24 @@
     },
     {      
       "title": "Meccha Chameleon",
-      "fileSize": "23.38 MB",
+      "fileSize": "4.5 GB",
       "uris": [
-        "https://rootz.so/d/1NkMz2",
-        "https://gofile.io/d/PS0BYh",
-        "https://fileditchfiles.me/alpha7/314054d191ac940aa154/MecchaChameleon_Fix_Repair_Steam_Generic.rar"
+        "https://rootz.so/d/fYLsO",
+        "https://gofile.io/d/hYXfx7",
+        "https://fileditchfiles.me/alpha8/f975a060a3b10395086c/MECCHA.CHAMELEON.v1.2.2-OFME.rar"
       ],
       "uploadDate": "2026-06-29T08:31:30.766Z",
+      "nsfw": false
+    },
+    {      
+      "title": "Frog Sqwad",
+      "fileSize": "868.0 MB",
+      "uris": [
+        "https://rootz.so/d/23xk92",
+        "https://gofile.io/d/EPnMJT",
+        "https://fileditchfiles.me/beta6/2ac754c4a82de6317e39/Frog.Sqwad.v1.3.5954-OFME.rar"
+      ],
+      "uploadDate": "2026-06-29T08:32:10.535Z",
       "nsfw": false
     }
   ]
