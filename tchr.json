@@ -515,7 +515,13 @@
         "https://fileditchfiles.me/alpha8/f975a060a3b10395086c/MECCHA.CHAMELEON.v1.2.2-OFME.rar"
       ],
       "uploadDate": "2026-06-29T08:31:30.766Z",
-      "nsfw": false
+      "nsfw": false,
+      "anotherAlert": [
+        {
+          "type": "error",
+          "text": "La contraseña es online-fix.me"
+        }
+      ]
     },
     {      
       "title": "Frog Sqwad 🐸",
@@ -526,7 +532,13 @@
         "https://fileditchfiles.me/beta6/2ac754c4a82de6317e39/Frog.Sqwad.v1.3.5954-OFME.rar"
       ],
       "uploadDate": "2026-06-29T08:32:10.535Z",
-      "nsfw": false
+      "nsfw": false,
+      "anotherAlert": [
+        {
+          "type": "error",
+          "text": "La contraseña es online-fix.me"
+        }
+      ]
     }
   ]
 }
