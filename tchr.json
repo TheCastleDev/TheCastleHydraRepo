@@ -479,7 +479,13 @@
         "https://thecastledevresources.netlify.app/palworld.torrent"
       ],
       "uploadDate": "2026-07-13T17:34:15.965Z",
-      "nsfw": false
+      "nsfw": false,
+      "anotherAlert": [
+        {
+          "type": "error",
+          "text": "La contraseña es online-fix.me"
+        }
+      ]
     },
     {      
       "title": "Five Nights at Freddy's: Into the Pit",
@@ -497,7 +503,13 @@
         "https://gofile.io/d/6XO1Zb"
       ],
       "uploadDate": "2026-07-15T08:57:27.133Z",
-      "nsfw": false
+      "nsfw": false,
+      "anotherAlert": [
+        {
+          "type": "error",
+          "text": "La contraseña es online-fix.me"
+        }
+      ]
     }
   ]
 }
