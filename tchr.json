@@ -293,7 +293,6 @@
     {
       "title": "MewGenics",
       "fileSize": "4.37 MB",
-      "needAccount": true,
       "uris": [
         "https://www.mediafire.com/file/jcojqo0y1asruaz/",
         "https://gofile.io/d/YmuMXQ"
@@ -329,8 +328,6 @@
       ],
       "uploadDate": "2026-03-03T18:54:58.404Z",
       "nsfw": false,
-      "needCode": ["CarpeJuegos"],
-      "codeNeeded": ["CarpeJuegos"],
       "anotherAlert": [
         {
           "type": "error",
