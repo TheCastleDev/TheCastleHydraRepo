@@ -526,8 +526,26 @@
         {
           "type": "error",
           "text": "La contraseña es online-fix.me"
-        }
-      ]
+        },
+    },
+    {      
+      "title": "Granny Remake",
+      "fileSize": "3.45 GB",
+      "uris": [
+        "https://megadb.net/4n5laaep9udw"
+      ],
+      "uploadDate": "2026-10-22T15:16:03.951Z",
+      "nsfw": false
+    },
+    {      
+      "title": "s&box",
+      "fileSize": "21.5 GB",
+      "uris": [
+        "https://bzzhr.to/co9ftvb8w2oi",
+        "https://gofile.io/d/my7kZW"
+      ],
+      "uploadDate": "2026-10-22T15:18:12.274Z",
+      "nsfw": false
     }
   ]
 }
