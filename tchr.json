@@ -514,7 +514,7 @@
         }
       ]
     },
-    {      
+    {
       "title": "Forza Horizon 6",
       "fileSize": "30.25 GB",
       "uris": [
@@ -526,10 +526,10 @@
         {
           "type": "error",
           "text": "La contraseña es online-fix.me"
-        },
+        }
       ]
     },
-    {      
+    {
       "title": "Granny Remake",
       "fileSize": "3.45 GB",
       "uris": [
@@ -538,7 +538,7 @@
       "uploadDate": "2026-10-22T15:16:03.951Z",
       "nsfw": false
     },
-    {      
+    {
       "title": "s&box",
       "fileSize": "21.5 GB",
       "uris": [
